@@ -20,9 +20,9 @@ public class Programa05 {
        DAOEmpleado dao = new DAOEmpleado();
        Empleado empleado = new Empleado();
        //empleado.setClave(4);
-       //empleado.setNombre("sagnax");
-       //empleado.setDireccion("calle 1");
-       //empleado.setTelefono("77777");
+       //empleado.setNombre("x");
+       //empleado.setDireccion("Av");
+       //empleado.setTelefono("234655");
        
        //create
        //dao.create(empleado);
